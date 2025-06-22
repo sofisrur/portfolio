@@ -648,5 +648,9 @@ a{
 }
 
 .portfolio p{
-    color:#333
+    color:#333;
+}
+
+.portfolio h2{
+    color:#fafafa;
 }
